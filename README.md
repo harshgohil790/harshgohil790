@@ -1,48 +1,76 @@
-# Hi 👋, I'm Harsh
+<h1 align="center">Hi 👋, I'm Harsh</h1>
 
-🎓 Computer Science Student
+<h3 align="center">🚀 CSE Student | Competitive Programmer | Aspiring Full Stack Developer</h3>
 
-💻 Competitive Programmer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-🌱 Currently learning:
-- Full Stack Development
-- AI & Machine Learning
-- AWS Cloud
+---
 
-## Languages & Tools
+## 👨‍💻 About Me
 
-C++ • Python • JavaScript • Node.js • Express.js • MongoDB • Git • AWS
+- 🎓 B.Tech CSE Student
+- 💻 Competitive Programmer (LeetCode, Codeforces, CodeChef)
+- 🌱 Currently learning **Full Stack Development**
+- 🤖 Exploring **AI / Machine Learning**
+- ☁️ Learning **AWS Cloud**
+- 🔥 Strong interest in DSA & Problem Solving
+- 📫 Reach me at: **harshgohil2407@gmail.com**
 
-## Coding Profiles
+---
 
-- LeetCode
-- Codeforces
-- CodeChef
+## 🌐 Connect With Me
 
-## Projects
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-- Snake Game (C++)
-- Tetris Game (C++)
-- Movie Booking System
-- Portable Solar Desalination Unit
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-## Goals
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
-- Improve DSA & Competitive Programming
-- Build Full Stack Projects
-- Learn AI/ML
+---
 
-<!--
-**harshgohil790/harshgohil790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,c" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
+</p>
+
+---
+
+
+
+## 🏆 Competitive Programming
+
+- Solved 500+ DSA problems
+- Active on Codeforces ,CodeChef and Leetcode.
+ 
+---
