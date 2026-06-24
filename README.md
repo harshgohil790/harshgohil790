@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://linkedin.com/in/harsh-gohil790" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
