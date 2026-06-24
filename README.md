@@ -6,11 +6,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student
+- 🎓 B.Tech CSE Student (Studying in Dhirubhai Ambani University)
 - 💻 Competitive Programmer (LeetCode, Codeforces, CodeChef)
 - 🌱 Currently learning **Full Stack Development**
 - 🤖 Exploring **AI / Machine Learning**
-- ☁️ Learning **AWS Cloud**
 - 🔥 Strong interest in DSA & Problem Solving
 - 📫 Reach me at: **harshgohil2407@gmail.com**
 
@@ -19,7 +18,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/harshgohil790" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -27,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:harshgohil2407@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
