@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 
-<h3 align="center">🚀 CSE Student | Competitive Programmer | Aspiring Full Stack Developer</h3>
+<h3 align="center">🚀 CSE Student | Aspiring Full Stack Developer</h3>
 
 ---
 
